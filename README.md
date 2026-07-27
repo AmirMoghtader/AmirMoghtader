@@ -2,7 +2,7 @@
 
 > 🎯 **Design × Code** — a product should look right *and* run right. Anything less is unfinished.
 
-🧑‍💻 **Web Developer** · **UI/UX Designer**
+🧑‍💻 **Web Developer** · **UI/UX Designer** · **SEO & GEO Specialist**
 
 Founder of **[Onwebs](https://onwebs.ir)** — web design, custom panels, UI/UX and branding for businesses that need to be seen, sell, and grow.
 Also building **[Avanobat](https://avanobat.ir)**, and writing code at **[4cuatro](https://4cuatro.ai)**.
@@ -42,6 +42,14 @@ An appointment-booking platform for doctors and clinics: search by specialty or 
 
 ---
 
+## 🔍 SEO & GEO
+
+Beyond building the site, I make sure it gets found. Technical SEO, schema markup, Core Web Vitals, internal linking and content architecture — plus **GEO** (Generative Engine Optimization): structuring pages so they're citable by AI Overviews, ChatGPT and Perplexity, not just ranked by Google.
+
+Shipped on real projects: per-doctor server-side SEO and local/GEO optimization on Avanobat, and an SEO-driven blog platform with auto-generated sitemaps.
+
+---
+
 ## 🚀 Other projects
 
 | Project | What it is |
@@ -50,9 +58,6 @@ An appointment-booking platform for doctors and clinics: search by specialty or 
 | ⚽ [worldcup-2026-prediction](https://github.com/AmirMoghtader/worldcup-2026-prediction) | World Cup 2026 prediction platform — multi-bet predictions, automatic scoring, live result sync, rewards & discount codes, banners, backup/restore, Persian admin panel. |
 | 📅 onwebs-calendar | Onwebs calendar — PWA calendar, task board, company automation, notifications, call center and native widgets. |
 | 🧩 Onwebs-pro | Internal Onwebs platform and tooling. |
-| 🔳 Qr-Code-maker | Browser-based QR code generator. |
-| 🖱️ custom-right-click | Custom context-menu component for the web. |
-| 🎨 paint-app | Simple paint app built with vanilla JavaScript. |
 
 ---
 
