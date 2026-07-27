@@ -1,3 +1,9 @@
+<div align="center">
+
+**English** &nbsp;&nbsp;|&nbsp;&nbsp; [فارسی »](https://github.com/AmirMoghtader/AmirMoghtader/blob/main/README.fa.md)
+
+</div>
+
 ### Hey there, I'm Amir H. Moghtader 👋
 
 > 🎯 **Design × Code** — a product should look right *and* run right. Anything less is unfinished.
