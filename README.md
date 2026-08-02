@@ -6,11 +6,11 @@
 
 ### Hey there, I'm Amir H. Moghtader 👋
 
-> 🎯 **Design × Code** — a product should look right *and* run right. Anything less is unfinished.
+> 🎯 **Code × Search** — a site should run right *and* get found. Anything less is unfinished.
 
-🧑‍💻 **Web Developer** · **UI/UX Designer** · **SEO & GEO Specialist**
+🧑‍💻 **Web Developer** · **SEO & GEO Specialist**
 
-Founder of **[Onwebs](https://onwebs.ir)** — web design, custom panels, UI/UX and branding for businesses that need to be seen, sell, and grow.
+Founder of **[Onwebs](https://onwebs.ir)** — websites, custom panels and digital growth for businesses that need to be seen, sell, and grow.
 Also building **[Avanobat](https://avanobat.ir)**, and writing code at **[4cuatro](https://4cuatro.ai)**.
 
 ---
@@ -26,7 +26,6 @@ Also building **[Avanobat](https://avanobat.ir)**, and writing code at **[4cuatr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
@@ -35,10 +34,10 @@ Also building **[Avanobat](https://avanobat.ir)**, and writing code at **[4cuatr
 
 ### 🏢 [Onwebs](https://onwebs.ir) — *founder*
 
-A studio for custom websites, e-commerce, web apps and admin panels, UI/UX, SEO and visual identity.
+A studio for custom websites, e-commerce, web apps and admin panels, SEO and visual identity.
 Everything is built in-house and full-code — no page builders, no templates — and tuned to stay fast on Iranian hosting and the national network.
 
-`Custom websites` · `Online stores` · `Mobile & web apps` · `Dedicated panels` · `UI/UX` · `SEO & marketing` · `Branding`
+`Custom websites` · `Online stores` · `Mobile & web apps` · `Dedicated panels` · `SEO & marketing` · `Branding`
 
 ### 🩺 [Avanobat](https://avanobat.ir) — *online doctor appointments, Mashhad*
 
@@ -90,4 +89,4 @@ Shipped on real projects: per-doctor server-side SEO and local/GEO optimization 
 
 ---
 
-*Designing the interface, shipping the code — one project at a time.*
+*Shipping the code, earning the rankings — one project at a time.*
